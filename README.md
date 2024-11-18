@@ -26,6 +26,8 @@ https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive
    ```bash
    git clone https://github.com/Rajganez/calendar-app.git
 
+   ```
+
 2. cd calendar-app
 
 3. npm install
