@@ -2,9 +2,9 @@
 
 A web application built using Next.js, React, and Zustand for managing recurring events with customizable patterns. Users can select daily, weekly, monthly, or yearly recurrence options, along with fine-tuned customization options such as selecting specific days of the week, the nth day of the month, or every X days/weeks/months/years.
 
-# Recorded Link
+# Recorded Demo Video Link
 
-
+https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive_link
 
 ## Table of Contents
 
