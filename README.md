@@ -28,12 +28,13 @@ https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive
 
    ```
 
+2. Install dependencies and Run the development server
+
+```bash
 cd calendar-app
 
 npm install
 
 npm run dev
-
-```
 
 ```
