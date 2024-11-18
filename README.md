@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Recurring Events Calendar
 
-## Getting Started
+A web application built using Next.js, React, and Zustand for managing recurring events with customizable patterns. Users can select daily, weekly, monthly, or yearly recurrence options, along with fine-tuned customization options such as selecting specific days of the week, the nth day of the month, or every X days/weeks/months/years.
 
-First, run the development server:
+# Recorded Link
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Table of Contents
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Development](#development)
+- [License](#license)
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: [Next.js](https://nextjs.org/) (v15.0.3)
+- **React**: [React](https://reactjs.org/) (v19.0.0-rc-66855b96-20241106)
+- **State Management**: [Zustand](https://github.com/pmndrs/zustand) (v5.0.1)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) or any preferred CSS framework
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/) (v5.3.0)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/recurring-events-calendar.git
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. cd recurring-events-calendar
