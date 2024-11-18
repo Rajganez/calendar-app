@@ -10,10 +10,6 @@ https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive
 
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Development](#development)
-- [License](#license)
 
 ## Tech Stack
 
@@ -26,7 +22,16 @@ https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recurring-events-calendar.git
 
-2. cd recurring-events-calendar
+   ```bash
+   git clone https://github.com/Rajganez/calendar-app.git
+
+2. cd calendar-app
+
+3. npm install
+
+4. npm run dev
+
+```
+
+```
