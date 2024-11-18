@@ -28,11 +28,11 @@ https://drive.google.com/file/d/1GwwIr1rcQnI_bj6a6kYAlp8vNHHVPh4s/view?usp=drive
 
    ```
 
-2. cd calendar-app
+cd calendar-app
 
-3. npm install
+npm install
 
-4. npm run dev
+npm run dev
 
 ```
 
